@@ -35,6 +35,18 @@ h6 {
   box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.2);
 }
 
+.rainbow-container {
+  position: relative;
+}
+
+.rainbow {
+  height: 5rem;
+  margin-top: auto;
+  position: absolute;
+  right: -0.5rem;
+  bottom: -1rem;
+}
+
 .icon {
   width: 2rem;
 }
